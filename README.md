@@ -3,17 +3,17 @@
  
   # 🫧 Fulmoon
 
-<p align="center"> ### It's Me! </p>
-<p align="center">   📧 fulmoon@gmail.com </p>
+<p> ### It's Me! </p>
+<p>   📧 fulmoon@gmail.com </p>
   
-<p align="center"> visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
+<p> visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
 
   
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p> Techs that I've used at least once </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -30,9 +30,9 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3>🪄 Blog 🪄</h3>
 
-<div align="center" style="text-align:center">
+<div style="text-align:center">
   
   <a href="https://velog.io/@fulmoon"><img src="https://img.shields.io/badge/fulmoon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   
@@ -41,14 +41,14 @@
 <br>
 
 
-<h3 align="center"> 🧸 SNS or .. 🧸 </h3>
-<p align="center">
+<h3> 🧸 SNS or .. 🧸 </h3>
+<p>
   <a href="https://www.instagram.com/sangwon_um/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sangwon_um/"/></a>&nbsp
   <a href="https://www.facebook.com/sangwon_um/"><img src="https://img.shields.io/badge/Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sangwon_um/"/></a>&nbsp
 </p>
 <br>
 
-<p align="center">
+<p>
   <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffulmoon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 </p>
 
