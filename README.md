@@ -3,6 +3,8 @@
  
 <h1> 🫧 Fulmoon </h1>
 
+<br>
+
 <h3> Introduction :raised_hands:</h3>
 - 🌕 Fulmoon only one 'L'.
 - 🌱 I’m currently learning Flutter.
@@ -34,19 +36,9 @@
 
 <br>
 
-<h3>🪄 Blog 🪄</h3>
-
-<div style="text-align:center">
-  
-  <a href="https://velog.io/@fulmoon"><img src="https://img.shields.io/badge/fulmoon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-  
-</div>
-  
-<br>
-
-
 <h3> 🧸 SNS or .. 🧸 </h3>
 <p>
+  <a href="https://velog.io/@fulmoon"><img src="https://img.shields.io/badge/fulmoon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/sangwon_um/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sangwon_um/"/></a>&nbsp
   <a href="https://www.facebook.com/sangwon_um/"><img src="https://img.shields.io/badge/Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sangwon_um/"/></a>&nbsp
 </p>
