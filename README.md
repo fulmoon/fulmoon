@@ -9,7 +9,6 @@
 visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 
 
   <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffulmoon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-  <a href="https://velog.io/@fulmoon"><img src="https://img.shields.io/badge/threeplef.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -40,8 +39,7 @@ visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  <a href="https://velog.io/@fulmoon"><img src="https://img.shields.io/badge/threeplef.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   
 </div>
   
