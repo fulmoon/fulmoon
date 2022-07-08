@@ -3,10 +3,14 @@
  
 # 🫧 Fulmoon
 
-### It's Me!
-<p>   📧 fulmoon@gmail.com </p>
+## Introduction :raised_hands:
+- 🌕 Fulmoon only one 'L'.
+- 🌱 I’m currently learning Flutter.
+- 📫 How to reach me: fulmoon@gmail.com 
+- 📚 <a href="https://velog.io/@gomuzom"><img src="https://img.shields.io/badge/gomuzom.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> 
+<br/><br/>
   
-<p> visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
+<p> visited one or more: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
 
   
 <h3>🛠 Tech Stack 🛠</h3>
