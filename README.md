@@ -9,8 +9,7 @@
 - 🌕 Fulmoon only one 'L'.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: fulmoon@gmail.com 
-  
-<p> visited one or more: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
+- 🚌 Visited one or more: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭
 
 
 <br>
