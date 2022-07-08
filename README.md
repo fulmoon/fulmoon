@@ -3,10 +3,10 @@
  
   # 🫧 Fulmoon
 
-### It's Me!
-  📧 fulmoon@gmail.com
+<p align="center"> ### It's Me! </p>
+<p align="center">   📧 fulmoon@gmail.com </p>
   
-visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 
+<p align="center"> visited: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭 </p>
 
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
