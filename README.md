@@ -2,7 +2,9 @@
  
  
 <h1> 🫧 Fulmoon </h1>
-
+<p>
+  <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffulmoon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+</p>
 <br>
 
 <h3> Introduction :raised_hands:</h3>
@@ -43,11 +45,6 @@
   <a href="https://www.facebook.com/sangwon_um/"><img src="https://img.shields.io/badge/Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sangwon_um/"/></a>&nbsp
 </p>
 <br>
-
-<p>
-  <a href="https://github.com/threeplef"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffulmoon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-</p>
-
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
