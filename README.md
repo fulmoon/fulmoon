@@ -6,11 +6,12 @@
 <br>
 
 <h3> Introduction :raised_hands:</h3>
-- 🌕 Fulmoon only one 'L'.
-- 🌱 I’m currently learning Flutter.
-- 📫 How to reach me: fulmoon@gmail.com 
-- 🚌 Visited one or more: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭
-
+<p>
+  - 🌕 Fulmoon only one 'L'.
+  - 🌱 I’m currently learning Flutter.
+  - 📫 How to reach me: fulmoon@gmail.com 
+  - 🚌 Visited one or more: 🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇲🇽 🇨🇳 🇭🇰	🇯🇵 🇲🇾	🇮🇩 	🇵🇭
+</p>
 
 <br>
   
